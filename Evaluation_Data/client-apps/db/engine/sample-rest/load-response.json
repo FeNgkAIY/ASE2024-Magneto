@@ -1,5 +1,0 @@
-{
-  "ack" : "1",
-  "time" : 1000,
-  "p" : ["XML record", {"json": "record"}, "CSV record", "Text record"]
-}

@@ -1,7 +1,0 @@
-{
-  "ack" : "1",
-  "time" : 1000,
-  "p" : {
-    "revoke-confirmation" : "xxx"
-  }
-}

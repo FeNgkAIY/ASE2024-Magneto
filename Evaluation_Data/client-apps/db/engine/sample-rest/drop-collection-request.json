@@ -1,9 +1,0 @@
-{
-  "username" : "root",
-  "password" : "root",
-  "ds" : "datastore1",
-  "q" : "drop-collection",
-  "p" : {
-    "name" : "collection1"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "catalogs": {},
-  "aliases": {
-    "karate": {
-      "script-ref": "com.intuit.karate:karate-core:1.3.0:all"
-    }
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "username" : "root",
-  "password" : "root",
-  "q" : "add-user",
-  "p" : {
-    "username" : "username1",
-    "password" : "password1"
-  }
-}

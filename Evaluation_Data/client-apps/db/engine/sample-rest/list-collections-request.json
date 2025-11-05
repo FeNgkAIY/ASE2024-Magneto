@@ -1,8 +1,0 @@
-{
-  "username" : "root",
-  "password" : "root",
-  "q" : "list-collections"
-  "p" : {
-    "ds" : "datastore1"
-  }
-}
